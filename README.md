@@ -12,7 +12,8 @@ After training and testing the model
 
 ## Features
 
-- Utilizes YOLOv8, the latest version as of January 2023, known for its accuracy and speed.
+- Utilizes YOLOv8, the latest version as of January 2023, known for its accuracy and speed with compared to the four architectures evaluated  as illustrated in the following figure.
+- ![1_6Sn93qyovio0qn3Y3q7Vgw](https://github.com/AhmedHany761/YOLOv8-/assets/134512069/666c1b55-373a-4119-8815-5748c9d380ba)
 - Incorporates color detection in addition to shape detection.
 - Simulated scenarios for objects at a distance to enhance the dataset's realism and make it more close to our desired task.
 - Evaluation metrics including mean average precision (mAP) and accuracy with a good cinfusion matrix graph.
@@ -24,7 +25,7 @@ After training and testing the model
 
 The dataset consists of 414 images for training, and 124 and 60 images for validation and testing, respectively.
 Data annotation tools and platforms were explored to improve dataset quality, although initially not required due to time constraints.
-So I just start the model with Roboflow already annotated dataset.
+So I just start the model with Roboflow already annotated dataset.However, I explored various online platforms and tools for data annotation, which is a fascinating and an interesting experience.
 
 ## Model Training
 
