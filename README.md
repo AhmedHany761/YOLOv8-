@@ -36,6 +36,7 @@ So I just start the model with Roboflow already annotated dataset.
 Inference can be performed in two ways:
 1. Using the Command Line Interface (CLI) for direct access to the pretrained YOLOv8 model.
 2. Utilizing the Software Development Kit (SDK) for inference.
+U should import the model and choose which way you want to detect with as a realtime detection by ur camera or through an image each task with specfic python file
 
 ## Results and Discussion
 
@@ -46,7 +47,7 @@ The model's performance was evaluated using metrics such as mean average precisi
 
 ## Conclusion
 
-This project aimed to develop a shape detection model using YOLOv8, leveraging a unique dataset with images from a distance and incorporating color detection. The combination of the latest YOLO architecture and a well-structured dataset enables accurate and efficient shape and color detection.
+This project aimed to develop a shape detection model using YOLOv8, with a unique dataset with images from a distance and with differnt color for detection. The combination of the latest YOLO architecture and a well-structured dataset enables accurate and efficient shape and color detection model.
 
 ## Getting Started
 
