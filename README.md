@@ -13,7 +13,7 @@ After training and testing the model
 ## Features
 
 - Utilizes YOLOv8, the latest version as of January 2023, known for its accuracy and speed with compared to the four architectures evaluated  as illustrated in the following figure.
-- ![1_6Sn93qyovio0qn3Y3q7Vgw](https://github.com/AhmedHany761/YOLOv8-/assets/134512069/666c1b55-373a-4119-8815-5748c9d380ba)
+ ![1_6Sn93qyovio0qn3Y3q7Vgw](https://github.com/AhmedHany761/YOLOv8-/assets/134512069/666c1b55-373a-4119-8815-5748c9d380ba)
 - Incorporates color detection in addition to shape detection.
 - Simulated scenarios for objects at a distance to enhance the dataset's realism and make it more close to our desired task.
 - Evaluation metrics including mean average precision (mAP) and accuracy with a good cinfusion matrix graph.
