@@ -44,6 +44,8 @@ U should import the model and choose which way you want to detect with as a real
 The model's performance was evaluated using metrics such as mean average precision (mAP) and accuracy with a confusion matrix graph. 
 ![Results Graphs](https://github.com/AhmedHany761/YOLOv8-/assets/134512069/4b04341c-ba59-4482-8f80-1b875f32ab37)
 ![Confusion Matrix](https://github.com/AhmedHany761/YOLOv8-/assets/134512069/26775046-1ced-4c5c-8cef-43be2f50f0be)
+Also getting some differnet notes from the results graph as regarding to the blue cross we need more images for training as the accuracy of the prediction not as much good
+
 
 
 ## Conclusion
